@@ -1,2 +1,0 @@
-# awesomeMovies
-Created with CodeSandbox
