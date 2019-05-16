@@ -5,7 +5,8 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "netlify-lambda": "1.4.7",
+    "babel-loader": "^8.0.6",
+    "netlify-lambda": "^1.4.7",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-hooks-testing-library": "0.5.0",
